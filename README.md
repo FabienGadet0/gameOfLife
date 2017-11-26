@@ -11,3 +11,6 @@ then run stack install for dependencies.
 # Run
 
 simply type : stack run
+
+
+![Alt text](./gameoflife.png?raw=true "GameOfLife")
